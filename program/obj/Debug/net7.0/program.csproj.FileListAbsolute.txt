@@ -1,0 +1,15 @@
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/bin/Debug/net7.0/program
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/bin/Debug/net7.0/program.deps.json
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/bin/Debug/net7.0/program.runtimeconfig.json
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/bin/Debug/net7.0/program.dll
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/bin/Debug/net7.0/program.pdb
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.csproj.AssemblyReference.cache
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.AssemblyInfoInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.AssemblyInfo.cs
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.csproj.CoreCompileInputs.cache
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.dll
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/refint/program.dll
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.pdb
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/program.genruntimeconfig.cache
+/Users/zaurhakurinov/Desktop/geek brains/итоговая/program/obj/Debug/net7.0/ref/program.dll
